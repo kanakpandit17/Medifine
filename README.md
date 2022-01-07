@@ -22,7 +22,7 @@ Functionality and Concepts used:
 
 Application Link & Future Scope:
 
-Following is the youtube link of our app:
+Here is the youtube link of our app: https://youtu.be/HT0TS-_LLIg
 
 1.	The application be further developed according to user feedbacks. 
 2.	Also, we can generate the lists of nearby hospitals/dieticians through API which fetches the related database.
