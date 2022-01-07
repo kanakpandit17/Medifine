@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">yuiop</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="to">To</string>
+    <string name="restautants">Restautants</string>
+    <string name="schools">Schools</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="search">Search</string>
+    <string name="calculate">Calculate</string>
+    <string name="_23">23</string>
+    <string name="your_result">Your Result</string>
+    <string name="your_height_in_cm">Your Height in Cm</string>
+    <string name="your_height_in_cml">Your Height in Cm</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="your_weight_in_cm">your_weight_in_cm</string>
+    <string name="your_weight_in_kg">weight_in_kg</string>
+    <string name="yaour_weight_in_kg">your_weight_in_kg</string>
+    <string name="yaur_weight_in_kg">Your weight in Kg</string>
+    <string name="yor_weight_in_kg">Your Height in Kg</string>
+    <string name="yur_height_in_cm">Your Height in cm</string>
+    <string name="yor_height_in_cm">Your weight in kg</string>
+    <string name="yor_height_in_cms">Your Height in cm</string>
+    <string name="your_weight_in_kgs">Your weight in kg</string>
+
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Transgender</item>
+        <item>Non Binary</item>
+    </string-array>
+</resources>

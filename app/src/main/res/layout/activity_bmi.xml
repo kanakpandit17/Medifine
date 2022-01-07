@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity"
+    tools:viewBindingIgnore="true">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="25dp"
+        android:text="@string/bmi_calculator"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="26sp"
+        tools:context=".bmi"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="50dp"
+        android:layout_height="wrap_content"
+        android:text="@string/your_weight_in_kgs"
+         android:textColor="#FFFFFF"
+        android:id="@+id/height123"
+        android:textStyle="bold"
+
+
+        />
+    <EditText
+        android:id="@+id/weight1234"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginVertical="10dp"
+        android:paddingHorizontal="15dp"
+        android:paddingVertical="12dp"
+        android:inputType="numberDecimal"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/edit_bg"
+
+        tools:ignore="LabelFor" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="50dp"
+        android:layout_height="wrap_content"
+        android:text="@string/yor_height_in_cms"
+        android:textColor="#FFFFFF"
+        android:id="@+id/weight123"
+        android:textStyle="bold"
+
+        />
+    <EditText
+        android:id="@+id/height1234"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginVertical="10dp"
+        android:paddingHorizontal="15dp"
+        android:paddingVertical="12dp"
+        android:inputType="numberDecimal"
+        android:background="@drawable/edit_bg"
+        android:textColor="#FFFFFF"
+        tools:ignore="LabelFor" />
+
+    <Button
+        android:id="@+id/btnabc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:text="@string/calculate"
+        android:background="@drawable/button_bg"
+        android:textColor="#fafafa"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginHorizontal="50dp"
+        android:text="@string/your_result"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textSize="26sp"
+        android:layout_marginVertical="15dp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="60sp"
+        android:textColor="#FFFFFF"
+
+        />
+
+
+
+</LinearLayout>

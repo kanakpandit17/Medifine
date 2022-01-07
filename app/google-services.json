@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639391576248",
+    "project_id": "fir-login-registration-5917a",
+    "storage_bucket": "fir-login-registration-5917a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639391576248:android:a81200dcf89319eb27844d",
+        "android_client_info": {
+          "package_name": "com.geekyhub.yuiop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639391576248-9btfmu9o2ebtmak17s0nvals19s3j4m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrIdrI_PuooUPVw1kywDG-gZugpSQSUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639391576248-9btfmu9o2ebtmak17s0nvals19s3j4m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
