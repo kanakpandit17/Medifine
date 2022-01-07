@@ -23,8 +23,9 @@ Functionality and Concepts used:
 Application Link & Future Scope:
 
 Following is the link of our app:
-•	The application be further developed according to user feedbacks. 
-•	Also, we can generate the lists of nearby hospitals/dieticians through API which fetches the related database.
-•	The app can help anyone to check their health status and hence, they could make their diet and fitness plan accordingly. 
+
+1.	The application be further developed according to user feedbacks. 
+2.	Also, we can generate the lists of nearby hospitals/dieticians through API which fetches the related database.
+3. The app can help anyone to check their health status and hence, they could make their diet and fitness plan accordingly. 
 
 
